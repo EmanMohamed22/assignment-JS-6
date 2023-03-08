@@ -1,0 +1,64 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #32383e;
+}
+
+
+.header img{
+
+   max-height: 30vh;
+}
+.navbar{
+    
+    width: 70%;
+    left:15%;
+
+}
+.nav-item .nav-link.active{
+    color: aqua !important;
+    
+}
+
+ .same{
+    height: 70px !important;
+} 
+nav .container{
+    background-color: rgb(66, 66, 101) !important;
+    
+}
+
+.nav-pills{
+    --bs-nav-pills-link-active-bg: transperent;
+}
+
+.box{
+    
+    background-color: #32383e ;
+    cursor: pointer;
+   
+    
+}
+.active{
+    color: aqua;
+}
+.cartona :hover{
+transform: scale(1.01);
+}
+#details{
+    display: none;
+}
+.loading{
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #32383e;
+    display: none;
+}
+.layer2{
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: transparent;
+}
